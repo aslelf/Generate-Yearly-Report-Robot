@@ -1,0 +1,4 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+755088,"Waste management services",105286,21057.2,126343,USD,2017-05-05
+225774,"Concierge Services",61253,12250.6,73503.6,RON,2017-05-05
+788267,"Beverages and Catering",69251,13850.2,83101.2,EUR,2017-05-06
